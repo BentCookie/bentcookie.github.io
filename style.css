@@ -1,15 +1,15 @@
 body {
+  background: #EEEEEE;
+  color: #333333;
+  font-family: sans-serif;
+  font-size: 100%;
+  line-height: 1.6;
   margin: 40px auto;
   max-width: 650px;
-  line-height: 1.6;
-  font-size: 18px;
-  font-family: sans-serif;
-  color: #444;
-  padding: 0 10px;
-  background: #EEEEEE;
+  padding: 20px 20px;
 }
 
 h1,h2,h3 {
+  font-family: Georgia, Times, serif;
   line-height: 1.2;
-  font-family: "Linux Libertine", Georgia, Times, serif;
 }
