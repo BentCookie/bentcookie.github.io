@@ -1,0 +1,30 @@
+body {
+  background:#EEE;
+  color:#333;
+  font-family:sans-serif;
+  font-size:100%;
+  line-height:1.6;
+  margin:20px auto;
+  max-width:650px;
+  padding:20px 20px;
+}
+
+footer {
+    text-align:center;
+    font-size:0.8em;
+}
+
+footer ul {
+    padding:0; /*Browser defaults are annoying*/
+}
+
+footer li{
+    display:inline-block;
+    padding:0 5px;
+}
+
+h1,h2,h3 {
+  font-family:Georgia, Times, serif;
+  line-height:1.2;
+}
+ 
